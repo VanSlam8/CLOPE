@@ -1,0 +1,13 @@
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\bin\Debug\netcoreapp3.1\CLOPE_Anurov.exe
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\bin\Debug\netcoreapp3.1\CLOPE_Anurov.deps.json
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\bin\Debug\netcoreapp3.1\CLOPE_Anurov.runtimeconfig.json
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\bin\Debug\netcoreapp3.1\CLOPE_Anurov.runtimeconfig.dev.json
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\bin\Debug\netcoreapp3.1\CLOPE_Anurov.dll
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\bin\Debug\netcoreapp3.1\CLOPE_Anurov.pdb
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\obj\Debug\netcoreapp3.1\CLOPE_Anurov.csprojAssemblyReference.cache
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\obj\Debug\netcoreapp3.1\CLOPE_Anurov.AssemblyInfoInputs.cache
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\obj\Debug\netcoreapp3.1\CLOPE_Anurov.AssemblyInfo.cs
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\obj\Debug\netcoreapp3.1\CLOPE_Anurov.csproj.CoreCompileInputs.cache
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\obj\Debug\netcoreapp3.1\CLOPE_Anurov.dll
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\obj\Debug\netcoreapp3.1\CLOPE_Anurov.pdb
+C:\Users\vansl\Documents\CLOPE_Anurov\CLOPE_Anurov\obj\Debug\netcoreapp3.1\CLOPE_Anurov.genruntimeconfig.cache
